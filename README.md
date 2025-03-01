@@ -77,3 +77,5 @@ Fiboard is committed to driving the global adoption of environmentally conscious
 
 ###
 
+ <a href="https://github.com/fiboard-ecosystem/Fiboard-Token"> Token Project <a/>
+
