@@ -70,5 +70,3 @@ Fiboard is committed to driving the global adoption of environmentally conscious
 
 ###
 
-![snake animation](https://github.com/fiboard-ecosystem/fiboard-ecosystem/blob/output/github-contribution-grid-snake2.svg)
-
