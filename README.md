@@ -18,11 +18,13 @@
 </div>
 
 ###
-<img align="left" height="80" src="https://iili.io/325yYRj.md.png"  />
+<br>
+
 <h1 align="center">Fiboard Ecosystem Information</h1>
 
 ###
-
+<br>
+<img align="left" height="80" src="https://iili.io/325yYRj.md.png"  />
 <h3 align="left">About US</h3>
 
 ###
