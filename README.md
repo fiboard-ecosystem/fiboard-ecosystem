@@ -84,14 +84,6 @@ Fiboard is committed to driving the global adoption of environmentally conscious
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
 </div>
 
-
-<br>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fiboard-ecosystem/fiboard-ecosystem/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fiboard-ecosystem/fiboard-ecosystem/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fiboard-ecosystem/fiboard-ecosystem/output/github-contribution-grid-snake.svg">
-</picture>
 ###
 
 
