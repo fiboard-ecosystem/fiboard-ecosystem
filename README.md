@@ -18,7 +18,7 @@
 </div>
 
 ###
-<img align="left" height="140" src="https://iili.io/325yYRj.md.png"  />
+<img align="left" height="80" src="https://iili.io/325yYRj.md.png"  />
 <h1 align="center">Fiboard Ecosystem Information</h1>
 
 ###
