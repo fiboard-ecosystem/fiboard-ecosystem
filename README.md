@@ -48,6 +48,7 @@ Fiboard is committed to driving the global adoption of environmentally conscious
 <a href="https://github.com/fiboard-ecosystem/Fiboard-Token/blob/main/files/FBD-WP-final.pdf"> WhitePaper Project <a/><br>
 <a href="https://github.com/fiboard-ecosystem/Fiboard-Token"> Token Project <a/><br>
 <a href="https://github.com/fiboard-ecosystem/Fiboard-ICO"> ICO Project <a/><br>
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -83,6 +84,14 @@ Fiboard is committed to driving the global adoption of environmentally conscious
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
 </div>
 
+
+<br>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fiboard-ecosystem/fiboard-ecosystem/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fiboard-ecosystem/fiboard-ecosystem/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fiboard-ecosystem/fiboard-ecosystem/output/github-contribution-grid-snake.svg">
+</picture>
 ###
 
 
