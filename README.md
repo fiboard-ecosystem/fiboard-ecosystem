@@ -41,9 +41,9 @@ The Fiboard ecosystem ensures long-term financial stability and environmental re
 ### ♻️ Commitment to Sustainability
 Fiboard is committed to driving the global adoption of environmentally conscious construction. By combining sustainability with blockchain innovation, the project establishes a resilient foundation for the token’s value. FBD aims to revolutionize how real estate investments are conducted and valued, providing a tangible link between digital assets and physical, sustainable infrastructure. 🏗️
 
-<a href="https://github.com/fiboard-ecosystem/Fiboard-Token/blob/main/files/FBD-WP-final.pdf"> WhitePaper Project <a/>
-<a href="https://github.com/fiboard-ecosystem/Fiboard-Token"> Token Project <a/>
-<a href="https://github.com/fiboard-ecosystem/Fiboard-ICO"> ICO Project <a/>
+<a href="https://github.com/fiboard-ecosystem/Fiboard-Token/blob/main/files/FBD-WP-final.pdf"> WhitePaper Project <a/><br>
+<a href="https://github.com/fiboard-ecosystem/Fiboard-Token"> Token Project <a/><br>
+<a href="https://github.com/fiboard-ecosystem/Fiboard-ICO"> ICO Project <a/><br>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
